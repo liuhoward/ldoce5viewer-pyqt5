@@ -22,6 +22,10 @@ sudo apt install python3-pyqt5.qtwebkit
 
 sudo apt-get install libqt5multimedia5-plugins
 
+sudo apt install python3-whoosh
+
+sudo apt install python3-lxml
+
 ```bash
 $ make build
 $ sudo make install
