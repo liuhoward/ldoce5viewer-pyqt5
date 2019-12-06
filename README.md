@@ -17,7 +17,7 @@ install dependencies:
 ```bash
 sudo apt install -y pyqt5-dev-tools python-pyqt5.qtmultimedia libqt5multimedia5-plugins python-pyqt5.qtwebkit
 sudo apt install -y gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly
-sudo apt install -y python-whoosh python-lxml python-distutils
+sudo apt install -y python-whoosh python-lxml
 ```
 compile & install
 ```bash
