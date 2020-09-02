@@ -10,20 +10,6 @@ It runs on Linux, Mac OS X and Microsoft Windows.
 
 This software is free and open source software licensed under the terms of GPLv3.
 
-## Linux Python 2
-default python is python2:
-
-install dependencies:
-```bash
-sudo apt install -y pyqt5-dev-tools python-pyqt5.qtmultimedia libqt5multimedia5-plugins python-pyqt5.qtwebkit
-sudo apt install -y gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly
-sudo apt install -y python-whoosh python-lxml
-```
-compile & install
-```bash
-$ make build
-$ sudo make install
-```
 
 ## Linux Python 3
 change default python to python3:
